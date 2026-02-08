@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=FFA500&height=350&section=header&text=Hi!%20nice%20to%20see%20you&fontSize=80&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=FFA500&height=250&section=header&text=Hi!%20nice%20to%20see%20you&fontSize=80&fontColor=FFFFFF)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejiwoo21)](https://solved.ac/leejiwoo21)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=leejiwoo21&theme=warm)

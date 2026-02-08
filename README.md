@@ -1,4 +1,13 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=FFA500&height=350&section=header&text=Hi!%20nice%20to%20you&fontSize=80&fontColor=FFFFFF)
+
+![Unity](https://img.shields.io/badge/unity-%23FFFFFF.svg?style=flat-square&logo=unity&logoColor=black)
+![github](https://img.shields.io/badge/github-%23FFFFFF.svg?style=flat-square&logo=github&logoColor=FFA500)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejiwoo21)](https://solved.ac/leejiwoo21)
+
+
+
+
 
 <!--
 **leejiwoo21/leejiwoo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

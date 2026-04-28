@@ -2,7 +2,6 @@
 
 
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=leejiwoo21&v=20260414)](https://solved.ac/leejiwoo21)
-![mazandi profile](https://mazandi.herokuapp.com/api?handle=leejiwoo21&theme=warm&v=20260414)
 
 ---
 
